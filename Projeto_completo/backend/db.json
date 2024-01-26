@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Galo campeão 2013",
+      "autoria": "Ana",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 1
+    },
+    {
+      "conteudo": "Galo 2014",
+      "autoria": "Copa do Brasil",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 2
+    },
+    {
+      "conteudo": "Galo 2021",
+      "autoria": "Brasileirão",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 3
+    },
+    {
+      "conteudo": "The Office",
+      "autoria": "Serie comédia",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 4
+    },
+    {
+      "conteudo": "O Mentalista",
+      "autoria": "Série policial",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 5
+    },
+    {
+      "conteudo": "Good Doctor",
+      "autoria": "Série médica",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 6
+    },
+    {
+      "conteudo": "Angular",
+      "autoria": "Linguagem prog",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Banco de dados",
+      "autoria": "Linguagem banco",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 8
+    }
+  ]
+}
